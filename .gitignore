@@ -1,0 +1,4 @@
+# .gitignore for Python projects
+__pycache__/
+*.xls
+*.xlsx
